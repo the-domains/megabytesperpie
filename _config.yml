@@ -1,14 +1,28 @@
-layout_spectrum: 0.9928315
+name: MegaBytesPerPie
+favicon: null
+layout_spectrum: 0.25461
+typography_spectrum: 0.1397849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7057906
-  lightness: 0.8622041
-  brandStrength: 0.5065781
   brandColors:
     - '#403732'
     - '#CFD0D7'
     - '#C7E04B'
     - '#898681'
     - '#9A2016'
+  brandStrength: 0.5065781
+  lightness: 0.8622041
+  saturation: 0.7057906
   rhythmicContrast: 0.08444332
-typography_spectrum: 0.1397849
-name: MegaBytesPerPie
+purpose: []
